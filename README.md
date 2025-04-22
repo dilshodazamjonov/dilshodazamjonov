@@ -10,22 +10,22 @@
 
 #### 🧠 Backend
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" class="tech-icon"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" class="tech-icon"/>
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" class="tech-icon"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="transition: transform 0.3s ease-in-out; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" style="transition: transform 0.3s ease-in-out; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" style="transition: transform 0.3s ease-in-out; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 #### 🛠 DevOps & Tools
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" class="tech-icon"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" class="tech-icon"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" class="tech-icon"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" style="transition: transform 0.3s ease-in-out; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="transition: transform 0.3s ease-in-out; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="transition: transform 0.3s ease-in-out; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
-#### 🔧 Others
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" class="tech-icon"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" class="tech-icon"/>
+#### 🔧 Other Skills
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" style="transition: transform 0.3s ease-in-out; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="transition: transform 0.3s ease-in-out; margin: 0 10px;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
 
 #### 📊 Skill Levels (Progress Bars)
@@ -87,15 +87,3 @@
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-<style>
-  .tech-icon {
-    transition: transform 0.3s ease-in-out;
-  }
-
-  .tech-icon:hover {
-    transform: scale(1.2);
-  }
-</style>
