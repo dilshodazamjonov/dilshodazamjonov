@@ -6,14 +6,26 @@
 
 ---
 
-### 🧠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,docker,git,linux,bash,vscode" />
-</p>
+### 🚀 Tech Stack & Proficiency
+
+#### 🧠 Backend
+- Python             ▓▓▓▓▓▓▓▓▓░ 9/10  
+- Django / DRF       ▓▓▓▓▓▓▓▓░░ 8/10  
+- PostgreSQL         ▓▓▓▓▓▓▓▓░░ 8/10  
+
+#### 🛠 DevOps & Tools
+- Docker             ▓▓▓▓▓▓░░░░ 6/10  
+- Git                ▓▓▓▓▓▓▓░░░ 7/10  
+- Linux              ▓▓▓▓▓▓░░░░ 6/10  
+
+#### 🔧 Others
+- Bash               ▓▓▓▓░░░░░░ 5/10  
+- VSCode             ▓▓▓▓▓▓▓▓▓░ 9/10  
 
 ---
 
-### 📈 Stats & Activity
+### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dilshodazamjonov&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodazamjonov&layout=compact&theme=tokyonight" height="160"/>
@@ -25,10 +37,21 @@
 
 ---
 
-### 🌍 Connect with Me
+### 🌐 Contact Me
+
 <p align="center">
   <a href="https://t.me/d_azamjonov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:dilshodazamjonov@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dilshod1526@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dilshod-a-zamjonov-779399287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/d_azamjonov/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/dilshodazamjonov/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
 </p>
 
 ---
