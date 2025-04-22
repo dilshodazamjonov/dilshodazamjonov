@@ -90,11 +90,12 @@
 
 ---
 
-### CSS for Hover Animations
-```html
 <style>
+  .tech-icon {
+    transition: transform 0.3s ease-in-out;
+  }
+
   .tech-icon:hover {
     transform: scale(1.2);
-    transition: all 0.3s ease-in-out;
   }
 </style>
