@@ -6,25 +6,6 @@
 
 ---
 
-### 🚀 Tech Stack & Proficiency
-
-#### 🧠 Backend
-- Python             ▓▓▓▓▓▓▓▓▓░ 9/10  
-- Django / DRF       ▓▓▓▓▓▓▓▓░░ 8/10  
-- PostgreSQL         ▓▓▓▓▓▓▓▓░░ 8/10  
-
-#### 🛠 DevOps & Tools
-- Docker             ▓▓▓▓▓▓░░░░ 6/10  
-- Git                ▓▓▓▓▓▓▓░░░ 7/10  
-- Linux              ▓▓▓▓▓▓░░░░ 6/10  
-
-#### 🔧 JS, HTML & CSS
-- JavaScript         ▓▓▓▓▓▓░░░░ 6/10  
-- HTML               ▓▓▓▓▓▓▓░░░ 7/10  
-- CSS                ▓▓▓▓▓▓▓░░░ 7/10 
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -46,7 +27,7 @@
   <a href="https://www.linkedin.com/in/dilshod-a-zamjonov-779399287/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/d_azamjonov/">
+  <a href="https://www.instagram.com/d_azamjonovs/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/dilshodazamjonov/">
