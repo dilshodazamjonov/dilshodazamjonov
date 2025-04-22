@@ -29,24 +29,29 @@
 </div>
 
 #### 📊 Skill Levels (Progress Bars)
+
 - **Python**:
-  <div style="width: 80%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
+  <div style="width: 90%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
     <div style="width: 90%; height: 100%; background-color: #3776AB; border-radius: 5px;"></div>
   </div>
+  
 - **Django**:
   <div style="width: 80%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
     <div style="width: 80%; height: 100%; background-color: #092E20; border-radius: 5px;"></div>
   </div>
+  
 - **Docker**:
-  <div style="width: 80%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
+  <div style="width: 70%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
     <div style="width: 70%; height: 100%; background-color: #2496ED; border-radius: 5px;"></div>
   </div>
+  
 - **Git**:
-  <div style="width: 80%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
+  <div style="width: 75%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
     <div style="width: 75%; height: 100%; background-color: #F05032; border-radius: 5px;"></div>
   </div>
+  
 - **Linux**:
-  <div style="width: 80%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
+  <div style="width: 60%; height: 20px; background-color: #e0e0e0; border-radius: 5px; margin: 5px;">
     <div style="width: 60%; height: 100%; background-color: #FCC624; border-radius: 5px;"></div>
   </div>
 
