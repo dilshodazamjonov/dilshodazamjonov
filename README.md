@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Zavvy 👋
+Aspiring Backend Developer | Python & Django Enthusiast | ICPC Competitor
 
-<!--
-**dilshodazamjonov/dilshodazamjonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 [AI Telegram Bot for Sellers](https://github.com/zavvy123/seller-ai-bot)
+- 🚀 [Self-Cleaning Litterbox Prototype](#)
+- 📦 [Mini Rating System in Django](#)
+
+
+![Zavvy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zavvy123&show_icons=true&theme=radical)
