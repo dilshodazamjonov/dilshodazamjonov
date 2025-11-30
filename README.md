@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Dilshod Azamjonov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&width=480&lines=Data+Engineer+%7C+ML+Engineer;Python+%7C+Django+%7C+FastAPI;ETL+Pipelines+%7C+Airflow+Learner;ML+Models+%7C+Feature+Engineering;Linux+%7C+Docker+%7C+PostgreSQL;ICPC+Participant+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D96D&center=true&vCenter=true&width=480&lines=Machine+Learning+Engineer;Model+Training+%7C+Evaluation+%7C+Deployment;Scikit-Learn+%7C+Pandas+%7C+NumPy;MLOps+Learner+%7C+Docker+%7C+CI%2FCD;Backend+Developer+%7C+Django+%7C+FastAPI;Data+Engineer+in+Progress" alt="Typing SVG" />
 </p>
 
 
@@ -13,8 +13,18 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+#### 🤖 Machine Learning & Data
+<div align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Pipelines-006EAF?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 #### 🛠 DevOps & Tools
@@ -22,6 +32,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 #### 💻 Frontend
@@ -36,6 +47,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
+
 
 ---
 
