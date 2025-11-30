@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Dilshod Azamjonov 👋</h1>
+<h1 align="center">Hi there, I'm Dilshod Azamjonov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+%7C+DRF+%7C+Python;C%2B%2B;DevOps+Learner+%7C+Linux+%7C+Docker;Open+Source+%7C+ICPC+Participant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76900&center=true&vCenter=true&width=480&lines=Data+Engineer+%7C+ML+Engineer;Python+%7C+Django+%7C+FastAPI;ETL+Pipelines+%7C+Airflow+Learner;ML+Models+%7C+Feature+Engineering;Linux+%7C+Docker+%7C+PostgreSQL;ICPC+Participant+%7C+Open+Source" alt="Typing SVG" />
 </p>
+
 
 ---
 
