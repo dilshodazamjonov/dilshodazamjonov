@@ -72,8 +72,16 @@
 ---
 
 ### GitHub Activity
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=dilshodazamjonov&hide=html,css&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dilshodazamjonov&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+<table border="0" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dilshodazamjonov&hide=html,css&layout=compact&theme=dark" alt="Top Langs" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=dilshodazamjonov&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
