@@ -72,8 +72,7 @@
 ---
 
 ### GitHub Activity
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodazamjonov&hide=html,css&&layout=compact&theme=dark)]
-
+[https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dilshodazamjonov&hide=html,css&layout=compact&theme=dark](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=dilshodazamjonov&hide=html,css&layout=compact&theme=dark)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodazamjonov&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
